@@ -4,13 +4,16 @@ Este projeto é uma página web desenvolvida para apresentar o tênis **Olympiku
 
 ## Funcionalidades
 
-- **Apresentação do Produto:** 
+- **Apresentação do Produto:**
+  <br>
 Exibe informações detalhadas sobre o Olympikus Corre 4, incluindo preço, descrição e imagens do produto.
 <br>
-- **Alteração de Visual:** 
+- **Alteração de Visual:**
+  <br>
 Usuários podem visualizar o tênis em diferentes cores ao clicar nos botões coloridos, tornando a experiência mais dinâmica.
 <br>
-- **Botão de Adicionar ao Carrinho:** 
+- **Botão de Adicionar ao Carrinho:**
+  <br>
 Simula a funcionalidade de adicionar o produto ao carrinho, característica comum em lojas virtuais.
 <br>
 ## Tecnologias Utilizadas
